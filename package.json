@@ -1,0 +1,22 @@
+{
+  "name": "npm-2d-array-transpose",
+  "version": "1.0.0",
+  "description": "This package simply changes the shape of the array in a way like transpose matrix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agunggst/npm-2D-array-transpose.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "agunggst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agunggst/npm-2D-array-transpose/issues"
+  },
+  "homepage": "https://github.com/agunggst/npm-2D-array-transpose#readme"
+}
